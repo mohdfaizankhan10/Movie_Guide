@@ -7,7 +7,7 @@ This project demonstrates an **end-to-end machine learning workflow**, including
 
 ---
 
-# Features
+# Features  
 
 - Content-based movie recommendation system
 - Text feature engineering using movie metadata
