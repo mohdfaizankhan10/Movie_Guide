@@ -55,7 +55,7 @@ When a user selects a movie:
 
 ---
 
-# Dataset
+# Dataset    
 
 The project uses a movie metadata dataset containing **approximately 5800 movies**.
 
